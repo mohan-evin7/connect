@@ -12,6 +12,11 @@
   font-weight: 600;
     
 }
+.logo
+{
+  height: 40px;
+  width: 40px;
+}
 
 
 .nav-item:hover{
@@ -41,6 +46,7 @@
 #suggestion{
     margin: 60px;
 }
+
 
 .site-footer
 {
