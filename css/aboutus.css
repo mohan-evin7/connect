@@ -194,9 +194,9 @@
 {
   background-color:#3b5998
 }
-.social-icons a.twitter:hover
+.social-icons a.instagram:hover
 {
-  background-color:#00aced
+  background-color: red;
 }
 .social-icons a.linkedin:hover
 {

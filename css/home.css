@@ -12,6 +12,12 @@
   color: white;
 	
 }
+
+.logo
+{
+  height: 40px;
+  width: 40px;
+}
 .jumbotron{
   
   background-color: #d9534f !important;
@@ -33,9 +39,9 @@
 }
 
 .jumbotron img{
-  margin-top: 40px;
-	height: 100%;
-	width: 100%;
+  margin-top: 100px;
+	height: 85%;
+	width: 85%;
 }
 
 .nav-item{
@@ -64,51 +70,6 @@
 }
 
 
-#services li{
-	list-style: none;
-	margin: 20px 0;
-	font-weight: 600;
-}
-#services h1 p{
-	margin: 40px;
-}
-
-#services p{
-	color : #3c3c3c;
-}
-
-
-#sevices img{
-	width: 100px;
-	height: 100px;
-}
-.services-heading{
-	text-align: center;
-	margin: 60px 0;
-
-}
-.sector-heading{
-	text-align: center;
-	margin: 60px 0;
-
-}
-
-.services-first{
-	text-align: center;
-	border: 2px solid #ccc;
-	background: #f0f0f0;
-	
-}
-
-
-
-.services-second{
-	text-align: center;
-	width: 40%;
-	background: #f0f0f0;
-	
-
-}
 
 .flip-card {
   background-color: transparent;
@@ -145,7 +106,7 @@
 }
 
 .flip-card-back {
-  background-color: red;
+  background-color: #d9534f;
   color: white;
   font-weight: 600;
   padding: 3% 17%;
@@ -155,6 +116,23 @@
 .row-content{
   margin: 60px 60px ;
 }
+
+#services{
+  text-align: center;
+  margin: 40px 40px;
+}
+.para{
+  margin: 40px 0;
+}
+#services h1{
+  margin: 40px 0;
+}
+
+#services p{
+  margin: 20px 0;
+  padding: 20px;
+}
+
 
 
 #sector h3{
@@ -306,11 +284,7 @@
   width:34px;
   font-size:14px
 }
-.logo
-{
-  height: 40px;
-  width: 40px;
-}
+
 .social-icons a.facebook:hover
 {
   background-color:#3b5998

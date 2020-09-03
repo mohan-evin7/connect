@@ -1,7 +1,9 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: 'open sarif',sans-serif;
+    font-family: 'open sarif',sans-serif;
+    list-style: none;
+    
 }
 
 .nav-item{
@@ -11,10 +13,10 @@
   color: white !important;
 }
 
+
 .nav-item:hover{
 	
 	color: white;
-	
 }
 
 .logo
@@ -23,58 +25,19 @@
   width: 40px;
 }
 
-.heading
-{
-    
-    margin-top: 100px;
+.heading{
     text-align: center;
-    font-weight: 600;
-    
+    margin: 80px 10px 40px 40px;
+    font-weight: 800;
 }
 
-#industry{
-    text-align: center;
-    
-    
-}
-#industry p{
+h1{
     margin: 40px 0;
-    font-weight: 600;
 }
 
-#expert{
-    text-align: center;
-}
+p{
 
-#expert p{
     margin: 40px 0;
-    font-weight: 600;
-}
-#supplier{
-    text-align: center;
-}
-
-#supplier p{
-    margin: 40px 0;
-    font-weight: 600;
-}
-
-
-
-.row-content{
-    border: 1px solid #fff;
-    box-shadow: 2px 2px 2px 2px #ccc;
-    margin: 40px;
-    background-color: #d9534f;
-    color: white;
-}
-
-.row-content h3{
-  margin: 40px 0;
-}
-
-.row-content li{
-  margin: 20px 0;
 }
 
 .site-footer
@@ -220,6 +183,7 @@
   width:34px;
   font-size:14px
 }
+
 .social-icons a.facebook:hover
 {
   background-color:#3b5998
@@ -242,3 +206,6 @@
     font-weight:600
   }
 }
+
+
+
